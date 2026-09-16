@@ -113,11 +113,6 @@ validation, and resource limits.
 GitHub Actions runs the same tests and MATLAB Code Analyzer checks on every
 push and pull request to `main`.
 
-## Contributing
-
-Bug reports and focused pull requests are welcome. See
-[CONTRIBUTING.md](CONTRIBUTING.md) for the development and validation steps.
-
 ## License
 
 Released under the [MIT License](LICENSE).
