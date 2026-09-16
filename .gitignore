@@ -1,0 +1,12 @@
+*.asv
+*.autosave
+*.m~
+slprj/
+codegen/
+html/
+coverage/
+test-results/
+code-coverage/
+*.slxc
+*.mex*
+*.mlappinstall
